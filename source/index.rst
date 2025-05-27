@@ -9,7 +9,7 @@ xArm AI
 
 .. toctree::
    :maxdepth: 2
-   :caption: SpiderPi
+   :caption: xArm AI
 
    docs/1.Get_Started.md
    docs/2.Remote_Control.md
@@ -18,7 +18,7 @@ xArm AI
    docs/5.Python_Programming_Project.md
    docs/6.Arduino_Programming_Project.md
    docs/7.Serial_Communication_Course.md
-
-
+   docs/resources_download.md
+   Download <https://drive.google.com/drive/folders/1oWtcs3b9LJhPTu5XSrGv-X5GEIlGgohv?usp=drive_link>
 
 
