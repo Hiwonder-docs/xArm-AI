@@ -105,7 +105,6 @@ table {
     border-bottom: 1px solid #e1e4e5;
     border-left: 1px solid #e1e4e5;
 }
-
 @media screen and (min-width: 1400px) {
     .wy-grid-for-nav .wy-nav-side, .wy-grid-for-nav .wy-side-nav-search, .wy-grid-for-nav .wy-menu {
         width: 320px;
@@ -119,4 +118,7 @@ table {
     .wy-grid-for-nav .wy-nav-content{
         max-width: 1080px;
     }
+    .xarm table{
+    width:770px;
+}
 }
