@@ -7,4 +7,4 @@
 
 - Vision Module Firmware & Flashing Tool : [Vision Module.zip](https://drive.google.com/drive/folders/1UrN0nHhVQQohB-JcOhbxAVWHXIxV-cwd?usp=sharing)
 - Action Group Files : [Action Files.zip](https://drive.google.com/drive/folders/1bwEQ0DpBxZLljv4A9OxHMzqHle1BhSpN?usp=sharing)
-- xArm AI PC Software Installation Package : [xArm setup.exe](https://www.hiwonder.net/robot-debugging-software)
+- xArm AI PC Software Installation Package : [xArm setup.exe](https://www.hiwonder.net/robot-debugging-software#level-6)
